@@ -6,19 +6,19 @@
 
 
 ## ⚡ Tech Stack
-SQL – advanced querying, joins, CTEs, window functions, data cleaning & transformations
+- SQL – advanced querying, joins, CTEs, window functions, data cleaning & transformations
 
-Python – pandas, numpy, matplotlib, seaborn for data analysis and visualization
+- Python – pandas, numpy, matplotlib, seaborn for data analysis and visualization
 
-Statistics for Business – hypothesis testing, confidence intervals, probability distributions, regression modeling, ANOVA, correlation, and experimental design
+- Statistics for Business – hypothesis testing, confidence intervals, probability distributions, regression modeling, ANOVA, correlation, and experimental design
 
-Power BI & Tableau – interactive dashboards, DAX, data storytelling
+- Power BI & Tableau – interactive dashboards, DAX, data storytelling
 
-Excel – Power Query, advanced formulas, automation (VBA/macros)
+- Excel – Power Query, advanced formulas, automation (VBA/macros)
 
-MySQL – database design & performance analysis
+- MySQL – database design & performance analysis
 
-AWS – Glue, Lambda, basic cloud data pipelines
+- AWS –  basic cloud data pipelines
 
 
 ## 📁 Featured Projects
@@ -41,5 +41,5 @@ AWS – Glue, Lambda, basic cloud data pipelines
 🤝 Collaborate on open-source analytics projects
 
 ## 🌍 Let’s Connect
-[💼 LinkedIn](www.linkedin.com/in/sakshiagarwal19) •  
+[💼 LinkedIn](www.linkedin.com/in/sakshiagarwal19)
 [📧 Email](mailto:8sakshi.agarwal@email.com)
