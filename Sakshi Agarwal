@@ -1,44 +1,51 @@
-#🌟 Hi, I'm Sakshi Agarwal  
+# 🌟 Hi, I'm Sakshi Agarwal  
 
-🎓 **MS in Business Analytics** at UMass Amherst | 📊 Aspiring Data Analyst  
-💡 Passionate about turning messy data into actionable insights.
+🎓 **MS in Business Analytics** at UMass Amherst  
+📊 Aspiring **Data / Business Analyst** | SQL • Python • Power BI • Tableau  
+💡 Passionate about turning messy data into actionable insights
 
 ---
 
 ## 🚀 Highlights
-- 🔭 Currently building: **SQL Supply Chain Risk Dashboard** ([Project Link](your-repo-link))
-- 📚 Learning: **Python ML | Tableau | Power BI | AWS Data Engineering**
-- 🌱 Fun fact: I once automated my relocation cost dashboard for 6 US cities!
+- 🔭 Building: **Supply Chain SQL Performance Project** ([View Project](https://github.com/agarwalsakshi-x/supplychain-performance-sql))
+- 📈 Created a **Netflix Bayesian Forecast** to predict 2025 subscriber growth
+- 🛠️ Designed interactive dashboards (Excel, Power BI, Tableau) to simplify complex data
 
 ---
 
 ## ⚡ Tech Stack
-| Category | Tools |
-|----------|------|
-| Languages | SQL, Python (pandas, numpy, matplotlib) |
-| Visualization | Power BI, Tableau, Excel |
-| Data Engineering | MySQL, AWS (Glue, Lambda) |
-| Analytics | Bayesian Forecasting, Time Series |
+| Category        | Tools |
+|-----------------|------|
+| Languages       | SQL • Python (pandas, numpy, matplotlib) |
+| Visualization   | Power BI • Tableau • Excel |
+| Data Engineering| MySQL • AWS (Glue, Lambda) |
+| Analytics       | Bayesian Forecasting • Time Series |
 
 ---
 
-<details>
-<summary>📂 Featured Projects (click to expand)</summary>
+## 💼 Featured Projects
+| Project | Tech | Summary |
+|--------|------|--------|
+| [Supply Chain Risk SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql) | SQL | Cleaned raw data, engineered features, and delivered supplier/shipping/category risk insights |
+| [Netflix Subscriber Forecast](link-to-repo) | Python | Bayesian model to estimate Netflix subscriber growth through 2025 |
+| [Amazon Sales Dashboard](link-to-repo) | Tableau | Visualized multi-channel sales performance with dynamic filters |
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| [Supply Chain SQL](link) | SQL | Risk & performance analysis with 500+ orders |
-| [Netflix Bayesian Forecast](link) | Python | Predicting 325M subs by 2025 |
-| [Amazon Sales Dashboard](link) | Tableau | Dynamic sales insights |
-</details>
+---
+
+## 🎯 Current Goals
+🌱 Strengthen advanced SQL & Python analytics  
+🚀 Build end-to-end data engineering pipelines on AWS  
+🤝 Collaborate on open-source analytics projects
 
 ---
 
 ## 🏆 Certifications
-- 📜 DataCamp: Exploratory Data Analysis in Python
-- 💻 Microsoft: Power BI Fundamentals
+- DataCamp – Exploratory Data Analysis in Python
+- Microsoft – Power BI Fundamentals
+- Coursera – Business Analytics Specialization
 
 ---
 
 ## 🌍 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/your-link) • [Portfolio](https://yourportfolio.com) • [Email](mailto:your@email.com)
+[💼 LinkedIn](https://www.linkedin.com/in/your-link) •  
+[📧 Email](mailto:your@email.com)
