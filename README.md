@@ -4,36 +4,41 @@
 📊 Aspiring **Data / Business Analyst** | SQL • Python • Power BI • Tableau  
 💡 Passionate about turning messy data into actionable insights
 
-## 🚀 Highlights
-- 🔭 Building: **Supply Chain SQL Performance Project** ([View Project](https://github.com/agarwalsakshi-x/supplychain-performance-sql))
-- 📈 Created a **Netflix Bayesian Forecast** to predict 2025 subscriber growth
-- 🛠️ Designed interactive dashboards (Excel, Power BI, Tableau) to simplify complex data
 
 ## ⚡ Tech Stack
-| Category        | Tools |
-|-----------------|------|
-| Languages       | SQL • Python (pandas, numpy, matplotlib) |
-| Visualization   | Power BI • Tableau • Excel |
-| Data Engineering| MySQL • AWS (Glue, Lambda) |
-| Analytics       | Bayesian Forecasting • Time Series |
+SQL – advanced querying, joins, CTEs, window functions, data cleaning & transformations
+
+Python – pandas, numpy, matplotlib, seaborn for data analysis and visualization
+
+Statistics for Business – hypothesis testing, confidence intervals, probability distributions, regression modeling, ANOVA, correlation, and experimental design
+
+Power BI & Tableau – interactive dashboards, DAX, data storytelling
+
+Excel – Power Query, advanced formulas, automation (VBA/macros)
+
+MySQL – database design & performance analysis
+
+AWS – Glue, Lambda, basic cloud data pipelines
 
 
-## 💼 Featured Projects
+## 📁 Featured Projects
 | Project | Tech | Summary |
-|--------|------|--------|
-| [Supply Chain Risk SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql) | SQL | Cleaned raw data, engineered features, and delivered supplier/shipping/category risk insights |
-| [Netflix Subscriber Forecast](link-to-repo) | Python | Bayesian model to estimate Netflix subscriber growth through 2025 |
-| [Amazon Sales Dashboard](link-to-repo) | Tableau | Visualized multi-channel sales performance with dynamic filters |
+|--------|------|---------|
+| [Supply Chain SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql) | SQL | Supply chain risk & performance analysis with advanced SQL queries |
+| *Coming Soon* | Python | **Netflix Bayesian Forecast** (placeholder for link) |
+| *Coming Soon* | Tableau | **Amazon Sales Dashboard** (placeholder for link) |
+| *Coming Soon* | Power BI | Future project placeholder |
+
+
+## 🏆 Certifications
+- **In Progress**: Power BI Fundamentals (Microsoft)  
+- **In Progress**: Google Data Analytics (Coursera)  
+- **In Progress**: AWS Cloud Practitioner – Beginner Path  
 
 ## 🎯 Current Goals
 🌱 Strengthen advanced SQL & Python analytics  
 🚀 Build end-to-end data engineering pipelines on AWS  
 🤝 Collaborate on open-source analytics projects
-
-## 🏆 Certifications
-- DataCamp – Exploratory Data Analysis in Python
-- Microsoft – Power BI Fundamentals
-- Coursera – Business Analytics Specialization
 
 ## 🌍 Let’s Connect
 [💼 LinkedIn](www.linkedin.com/in/sakshiagarwal19) •  
