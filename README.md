@@ -41,5 +41,5 @@
 🤝 Collaborate on open-source analytics projects
 
 ## 🌍 Let’s Connect
-[💼 LinkedIn]([www.linkedin.com/in/sakshiagarwal19](https://www.linkedin.com/in/sakshiagarwal19/))
+[LinkedIn](https://www.linkedin.com/in/sakshiagarwal19/)
 [📧 Email](mailto:8sakshi.agarwal@email.com)
