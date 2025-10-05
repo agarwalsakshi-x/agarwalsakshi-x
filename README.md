@@ -25,9 +25,6 @@
 | Project | Tech | Summary |
 |--------|------|---------|
 | [Supply Chain SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql) | SQL | Supply chain risk & performance analysis with advanced SQL queries |
-| *Coming Soon* | Python | **Netflix Bayesian Forecast** (placeholder for link) |
-| *Coming Soon* | Tableau | **Amazon Sales Dashboard** (placeholder for link) |
-| *Coming Soon* | Power BI | Future project placeholder |
 
 
 ## 🏆 Certifications
