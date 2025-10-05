@@ -32,11 +32,6 @@
 - **In Progress**: Google Data Analytics (Coursera)  
 - **In Progress**: AWS Cloud Practitioner – Beginner Path  
 
-## 🎯 Current Goals
-🌱 Strengthen advanced SQL & Python analytics  
-🚀 Build end-to-end data engineering pipelines on AWS  
-🤝 Collaborate on open-source analytics projects
-
 ## 🌍 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/sakshiagarwal19/)
 [📧 Email](mailto:8sakshi.agarwal@email.com)
