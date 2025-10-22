@@ -12,9 +12,9 @@ Now, as a Business Analytics grad student at UMass Amherst, I’m exploring how 
 
 ## 📁 Featured Projects
 
-### 🔹 [Supply Chain SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql)
-**Tech:** SQL  
-**Summary:** Analyzed supply chain risk and supplier performance using advanced SQL queries. Identified late orders, calculated on-time delivery %, and categorized reliability across shipping modes.
+💠 **[Supply Chain SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql)**  
+*SQL | Data Analysis | Supply Chain*  
+Analyzed supplier reliability and delivery performance using advanced SQL queries, identified late orders, calculated on-time delivery %, and uncovered key risk patterns across shipping modes.
 
 
 ## 🌍 Let’s Connect
