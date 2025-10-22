@@ -1,17 +1,23 @@
-Hi, I’m Sakshi Agarwal — a former Quality Engineering Analyst at Accenture, now pursuing my MS in Business Analytics at UMass Amherst.
+Hey there! I’m Sakshi, a data enthusiast who believes every dataset has a story waiting to be told.
 
-I love digging into data, finding patterns others might miss, and turning them into insights that actually make sense.
+I started my career at Accenture, testing digital platforms and spotting invisible gaps in complex systems - that’s where I fell in love with problem-solving.
 
-🧩 I’ve moved from testing systems to testing ideas — using SQL, Python, Power BI, and Tableau to transform raw data into real impact.
+Now, as a Business Analytics grad student at UMass Amherst, I’m exploring how data can do more than inform - it can inspire.
 
-💬 On this GitHub, you’ll find my projects in analytics, dashboards, and data storytelling — all driven by curiosity, caffeine, and a love for clean datasets. ☕📊
+⚙️ Tools I speak fluently: SQL • Python • Power BI • Tableau • Excel
+
+🚀 Welcome to my corner of the internet - where messy data turns into meaningful insight
+
+💬 On this GitHub, you’ll find my projects in analytics, dashboards, and data storytelling - all driven by curiosity, caffeine, and a love for clean datasets. ☕📊
 
 ## 📁 Featured Projects
-| Project | Tech | Summary |
-|--------|------|---------|
-| [Supply Chain SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql) | SQL | Supply chain risk & performance analysis with advanced SQL queries |
+
+### 🔹 [Supply Chain SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql)
+**Tech:** SQL  
+**Summary:** Analyzed supply chain risk and supplier performance using advanced SQL queries. Identified late orders, calculated on-time delivery %, and categorized reliability across shipping modes.
 
 
 ## 🌍 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/sakshiagarwal19/)
+
 [📧 Email](mailto:8sakshi.agarwal@email.com)
