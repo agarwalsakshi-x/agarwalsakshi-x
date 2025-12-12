@@ -1,20 +1,44 @@
-Hey there! I’m Sakshi, a data enthusiast who believes every dataset has a story waiting to be told.
+# Hi, I’m Sakshi 👋  
 
-I started my career at Accenture, testing digital platforms and spotting invisible gaps in complex systems - that’s where I fell in love with problem-solving.
+I’m a **Business Analytics graduate student at UMass Amherst** with hands-on experience in **Python, SQL, machine learning, and data visualization**. I enjoy turning messy, real-world data into clear insights that support better business decisions.
 
-Now, as a Business Analytics grad student at UMass Amherst, I’m exploring how data can do more than inform - it can inspire.
+I began my career at **Accenture**, working in quality engineering for large-scale enterprise systems. That experience sharpened my eye for data accuracy, edge cases, and process gaps — and ultimately led me toward analytics and data science.
 
-⚙️ Tools I speak fluently: SQL • Python • Power BI • Tableau • Excel
 
-🚀 Welcome to my corner of the internet - where messy data turns into meaningful insight
+## 🔍 What I Work On
+My projects focus on **end-to-end analytics**, from data cleaning and exploration to modeling and business recommendations. You’ll find work related to:
 
-💬 On this GitHub, you’ll find my projects in analytics, dashboards, and data storytelling - all driven by curiosity, caffeine, and a love for clean datasets. ☕📊
+- 📊 **Exploratory Data Analysis (EDA)** & feature engineering  
+- 🤖 **Machine Learning** (Logistic Regression, Decision Trees, Random Forests, Neural Networks)  
+- 🧮 **SQL analytics** (joins, aggregations, window functions)  
+- 📈 **Dashboards & KPI design** (Tableau, Power BI)  
+- 💡 Translating model results into **business insights**
 
-## 📁 Featured Projects
 
-💠 **[Supply Chain SQL](https://github.com/agarwalsakshi-x/supplychain-performance-sql)**  
-*SQL | Data Analysis | Supply Chain*  
-Analyzed supplier reliability and delivery performance using advanced SQL queries, identified late orders, calculated on-time delivery %, and uncovered key risk patterns across shipping modes.
+## 📂 Featured Projects
+Here are a few projects I’m especially proud of:
+
+- **Loan Approval Prediction (Python, ML)**  
+  Built an end-to-end classification pipeline, optimized recall using decile-based cutoff analysis, and identified key drivers of loan approval risk.
+
+- **Customer Churn Prediction & Retention Strategy**  
+  Analyzed 7,000+ telecom customers, built predictive models (AUC ≈ 0.85), and recommended data-driven retention strategies tied to revenue impact.
+
+- **Supply Chain Performance & Risk Analytics (SQL, Tableau)**  
+  Cleaned and analyzed 100K+ supplier records, built KPIs, and developed dashboards to identify delivery and risk bottlenecks.  
+  👉 Repo:  **https://github.com/agarwalsakshi-x/supplychain-performance-sql**
+## 🛠 Tools & Technologies
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **Analytics:** EDA, Statistical Analysis, KPI Design  
+- **Visualization:** Tableau, Power BI, Excel  
+- **Tools:** GitHub, Jupyter, AWS, Azure, Snowflake  
+
+## 🌱 What I’m Learning Next
+- Improving my Python and SQL skills through more hands-on projects  
+- Practicing model evaluation and threshold tuning for real business use cases  
+- Building clearer dashboards and stories that explain model results to non-technical audiences  
+- Applying what I learn in class to real industry-style problems
 
 
 ## 🌍 Let’s Connect
