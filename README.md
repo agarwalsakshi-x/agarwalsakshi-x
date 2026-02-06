@@ -24,6 +24,7 @@ Here are a few projects I’m especially proud of.
 
 - **Loan Approval Prediction (Python, Machine Learning)**  
   Built an end-to-end classification pipeline, optimized recall using decile-based cutoff analysis, and identified key drivers of loan approval risk.
+  Repo: https://github.com/agarwalsakshi-x/Predicting-Loan-Approval
 
 - **Customer Churn Prediction & Retention Strategy**  
   Analyzed 7,000+ telecom customers, built predictive models (AUC ≈ 0.85), and recommended data-driven retention strategies tied to revenue impact.
