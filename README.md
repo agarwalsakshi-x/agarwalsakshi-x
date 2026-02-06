@@ -19,9 +19,6 @@ My projects focus on **end-to-end analytics**, from data cleaning and exploratio
 
 ## 📂 Featured Projects
 
-Here are a few projects I’m especially proud of.  
-**If you’re visiting for the first time, I recommend starting with the Supply Chain Performance & Risk Analytics project.**
-
 - **Loan Approval Prediction (Python, Machine Learning)**  
   Built an end-to-end classification pipeline, optimized recall using decile-based cutoff analysis, and identified key drivers of loan approval risk.
   Repo: https://github.com/agarwalsakshi-x/Predicting-Loan-Approval
