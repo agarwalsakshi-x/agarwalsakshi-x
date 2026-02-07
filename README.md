@@ -24,7 +24,8 @@ My projects focus on **end-to-end analytics**, from data cleaning and exploratio
   Repo: https://github.com/agarwalsakshi-x/Predicting-Loan-Approval
 
 - **Customer Churn Prediction & Retention Strategy**  
-  Analyzed 7,000+ telecom customers, built predictive models (AUC ≈ 0.85), and recommended data-driven retention strategies tied to revenue impact.
+  Analyzed 7,000+ IBM telecom customers, built predictive models (AUC ≈ 0.85), and recommended data-driven retention strategies tied to revenue impact.
+  Repo: https://github.com/agarwalsakshi-x/IBM-Telco-Customer-Churn
 
 - **Supply Chain Performance & Risk Analytics (SQL, Tableau)**  
   Cleaned and analyzed 100K+ supplier records, built KPIs, and developed dashboards to identify delivery and risk bottlenecks.  
