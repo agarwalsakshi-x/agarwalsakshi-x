@@ -19,21 +19,21 @@ My projects focus on **end-to-end analytics**, from data cleaning and exploratio
 
 ## 📂 Featured Projects
 
-- **Loan Approval Prediction (Python, Machine Learning)**  
-  Built an end-to-end classification pipeline, optimized recall using decile-based cutoff analysis, and identified key drivers of loan approval risk.
-  Repo: https://github.com/agarwalsakshi-x/Predicting-Loan-Approval
+### Loan Approval Prediction (Python, Machine Learning)
+Built an end-to-end classification pipeline, optimized recall using decile-based cutoff analysis, and identified key drivers of loan approval risk to support data-driven credit decisioning.  
+**Repo:** https://github.com/agarwalsakshi-x/Predicting-Loan-Approval
 
-- **Customer Churn Prediction & Retention Strategy**  
-  Analyzed 7,000+ IBM telecom customers, built predictive models (AUC ≈ 0.85), and recommended data-driven retention strategies tied to revenue impact.
-  Repo: https://github.com/agarwalsakshi-x/IBM-Telco-Customer-Churn
+### Customer Churn Prediction & Retention Strategy
+Analyzed 7,000+ IBM telecom customers, developed predictive churn models (AUC ≈ 0.85), and translated model insights into targeted retention strategies linked to revenue impact.  
+**Repo:** https://github.com/agarwalsakshi-x/IBM-Telco-Customer-Churn
 
-- **Supply Chain Performance & Risk Analytics (SQL, Tableau)**  
-  Cleaned and analyzed 100K+ supplier records, built KPIs, and developed dashboards to identify delivery and risk bottlenecks.  
-  Repo: https://github.com/agarwalsakshi-x/supplychain-performance-sql
+### Supply Chain Performance & Risk Analytics (SQL, Tableau)
+Processed 100K+ supplier records, built operational KPIs using advanced SQL, and designed dashboards to uncover delivery delays, supplier risk, and performance bottlenecks.  
+**Repo:** https://github.com/agarwalsakshi-x/supplychain-performance-sql
 
-(More projects and documentation are added regularly.)
-
-
+### Amazon Prime Air Drone Hub Optimization (Supply Chain Analytics, Location Modeling)
+Designed a statewide drone delivery network for Massachusetts using Center of Gravity optimization, coverage radius analysis, and Huff gravity demand modeling. Quantified population coverage, estimated daily drone volumes, and recommended a phased three-hub deployment strategy (Newton, Worcester, Springfield) to maximize service reach and operational efficiency.  
+**Repo:** https://github.com/agarwalsakshi-x/Amazon-Prime-Air-Drone-Hub-Analysis
 
 ## 🛠 Tools & Technologies
 
@@ -43,8 +43,6 @@ My projects focus on **end-to-end analytics**, from data cleaning and exploratio
 - **Visualization:** Tableau, Power BI, Excel  
 - **Tools:** GitHub, Jupyter, AWS, Azure, Snowflake  
 
-
-
 ## 🌱 What I’m Learning Next
 
 - Improving my Python and SQL skills through more hands-on projects  
@@ -52,11 +50,9 @@ My projects focus on **end-to-end analytics**, from data cleaning and exploratio
 - Building clearer dashboards and stories that explain model results to non-technical audiences  
 - Applying what I learn in class to real industry-style problems  
 
-
-
 ## 🌐 Let’s Connect
 
 - LinkedIn: https://linkedin.com/in/sakshiagarwal19  
 - Email: agarwalsakshi849@gmail.com  
 
-Thanks for stopping by — feel free to explore the repositories or reach out.
+Thanks for stopping by - feel free to explore the repositories or reach out.
