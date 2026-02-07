@@ -35,13 +35,33 @@ Processed 100K+ supplier records, built operational KPIs using advanced SQL, and
 Designed a statewide drone delivery network for Massachusetts using Center of Gravity optimization, coverage radius analysis, and Huff gravity demand modeling. Quantified population coverage, estimated daily drone volumes, and recommended a phased three-hub deployment strategy (Newton, Worcester, Springfield) to maximize service reach and operational efficiency.  
 **Repo:** https://github.com/agarwalsakshi-x/Amazon-Prime-Air-Drone-Hub-Analysis
 
-## 🛠 Tools & Technologies
+## 🛠 Skills & Technologies
 
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn  
-- **Analytics:** EDA, Statistical Analysis, KPI Design  
-- **Visualization:** Tableau, Power BI, Excel  
-- **Tools:** GitHub, Jupyter, AWS, Azure, Snowflake  
+**Databases & Data Querying**  
+- SQL (Joins, Aggregations, CTEs, Window Functions)  
+- Relational Databases, Data Warehousing Concepts, Snowflake  
+
+**Data Analysis & Machine Learning**  
+- Python (Pandas, NumPy, Scikit-learn)  
+- Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering  
+- Supervised Learning: Logistic Regression, Decision Trees, Random Forest, Neural Networks  
+- Model Evaluation: AUC, Precision-Recall, Cross-Validation  
+
+**Business & Product Analytics**  
+- KPI Design, Cohort & Retention Analysis, Churn Modeling  
+- Forecasting, Segmentation, Decision Support, A/B Testing Concepts  
+
+**Visualization & Reporting**  
+- Tableau, Power BI, Excel (Dashboards, Pivot Tables, What-If Analysis)  
+- Data Storytelling for non-technical stakeholders  
+
+**Cloud, Data Engineering (Foundational)**  
+- AWS & Azure fundamentals, Cloud storage & compute concepts  
+- Data pipeline basics, ETL/ELT concepts, Structured vs streaming data  
+
+**Tools & Collaboration**  
+- GitHub, Jupyter Notebook  
+- Agile fundamentals, Requirements gathering, Stakeholder communication
 
 ## 🌱 What I’m Learning Next
 
