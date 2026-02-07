@@ -1,78 +1,76 @@
 # Hi, I’m Sakshi 👋
 
-I’m a **Business Analytics graduate student at UMass Amherst** with hands-on experience in **Python, SQL, machine learning, and data visualization**. I enjoy turning messy, real-world data into clear insights that support better business decisions.
+I’m a **Business Analytics graduate student at UMass Amherst** focused on **Data Analytics, Machine Learning, and Supply Chain Decision Analytics**. I build end-to-end analytical solutions that transform messy real-world data into clear insights that improve **business performance, risk management, and operational efficiency**.
 
-I began my career at **Accenture**, working in quality engineering for large-scale enterprise systems. That experience sharpened my eye for data accuracy, edge cases, and process gaps, and ultimately led me toward analytics and data science.
-
+Before graduate school, I worked at **Accenture** in quality engineering for large-scale enterprise systems. That experience strengthened my attention to **data accuracy, edge cases, and process gaps**, and ultimately led me toward analytics and data science.
 
 ## 🔍 What I Work On
 
-My projects focus on **end-to-end analytics**, from data cleaning and exploration to modeling and business recommendations. You’ll find work related to:
+My projects focus on **end-to-end analytics workflows**, including:
 
-- Exploratory Data Analysis (EDA) and feature engineering  
-- Machine Learning (Logistic Regression, Decision Trees, Random Forests, Neural Networks)  
-- SQL analytics (joins, aggregations, window functions)  
-- Dashboards and KPI design (Tableau, Power BI)  
-- Translating model results into business insights  
-
-
+- Data cleaning, exploratory analysis, and feature engineering  
+- Machine learning for prediction and decision support  
+- SQL-based business analytics and KPI development  
+- Dashboarding and visualization for stakeholder communication  
+- Translating analytical results into **actionable business recommendations**  
 
 ## 📂 Featured Projects
 
 ### Loan Approval Prediction (Python, Machine Learning)
-Built an end-to-end classification pipeline, optimized recall using decile-based cutoff analysis, and identified key drivers of loan approval risk to support data-driven credit decisioning.  
+Built an end-to-end classification pipeline, optimized recall using decile-based cutoff analysis, and identified key drivers of loan approval risk to support **data-driven credit decisioning**.  
 **Repo:** https://github.com/agarwalsakshi-x/Predicting-Loan-Approval
 
 ### Customer Churn Prediction & Retention Strategy
-Analyzed 7,000+ IBM telecom customers, developed predictive churn models (AUC ≈ 0.85), and translated model insights into targeted retention strategies linked to revenue impact.  
+Analyzed 7,000+ telecom customers, developed predictive churn models (**AUC ≈ 0.85**), and translated model insights into **targeted retention strategies linked to revenue impact**.  
 **Repo:** https://github.com/agarwalsakshi-x/IBM-Telco-Customer-Churn
 
 ### Supply Chain Performance & Risk Analytics (SQL, Tableau)
-Processed 100K+ supplier records, built operational KPIs using advanced SQL, and designed dashboards to uncover delivery delays, supplier risk, and performance bottlenecks.  
+Processed 100K+ supplier records, built operational KPIs using advanced SQL, and designed dashboards to uncover **delivery delays, supplier risk, and performance bottlenecks**.  
 **Repo:** https://github.com/agarwalsakshi-x/supplychain-performance-sql
 
 ### Amazon Prime Air Drone Hub Optimization (Supply Chain Analytics, Location Modeling)
-Designed a statewide drone delivery network for Massachusetts using Center of Gravity optimization, coverage radius analysis, and Huff gravity demand modeling. Quantified population coverage, estimated daily drone volumes, and recommended a phased three-hub deployment strategy (Newton, Worcester, Springfield) to maximize service reach and operational efficiency.  
+Designed a statewide drone delivery network for Massachusetts using **Center of Gravity optimization, coverage modeling, and Huff demand analysis**. Quantified service reach, estimated daily drone volumes, and recommended a **phased three-hub deployment strategy** to maximize statewide efficiency.  
 **Repo:** https://github.com/agarwalsakshi-x/Amazon-Prime-Air-Drone-Hub-Analysis
+
 
 ## 🛠 Skills & Technologies
 
 **Databases & Data Querying**  
 - SQL (Joins, Aggregations, CTEs, Window Functions)  
-- Relational Databases, Data Warehousing Concepts, Snowflake  
+- Relational databases, data warehousing concepts, Snowflake  
 
 **Data Analysis & Machine Learning**  
 - Python (Pandas, NumPy, Scikit-learn)  
-- Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering  
-- Supervised Learning: Logistic Regression, Decision Trees, Random Forest, Neural Networks  
-- Model Evaluation: AUC, Precision-Recall, Cross-Validation  
+- EDA, data cleaning, feature engineering  
+- Logistic Regression, Decision Trees, Random Forest, Neural Networks  
+- Model evaluation: AUC, Precision-Recall, Cross-Validation  
 
 **Business & Product Analytics**  
-- KPI Design, Cohort & Retention Analysis, Churn Modeling  
-- Forecasting, Segmentation, Decision Support, A/B Testing Concepts  
+- KPI design, cohort & retention analysis, churn modeling  
+- Forecasting, segmentation, decision support, A/B testing concepts  
 
 **Visualization & Reporting**  
-- Tableau, Power BI, Excel (Dashboards, Pivot Tables, What-If Analysis)  
-- Data Storytelling for non-technical stakeholders  
+- Tableau, Power BI, Excel dashboards  
+- Data storytelling for non-technical stakeholders  
 
-**Cloud, Data Engineering (Foundational)**  
-- AWS & Azure fundamentals, Cloud storage & compute concepts  
-- Data pipeline basics, ETL/ELT concepts, Structured vs streaming data  
+**Cloud & Data Engineering (Foundational)**  
+- AWS & Azure fundamentals, cloud storage & compute  
+- ETL/ELT basics, structured vs. streaming data  
 
 **Tools & Collaboration**  
 - GitHub, Jupyter Notebook  
-- Agile fundamentals, Requirements gathering, Stakeholder communication
+- Agile fundamentals, requirements gathering, stakeholder communication  
 
-## 🌱 What I’m Learning Next
+## 🚀 Current Focus
 
-- Improving my Python and SQL skills through more hands-on projects  
-- Practicing model evaluation and threshold tuning for real business use cases  
-- Building clearer dashboards and stories that explain model results to non-technical audiences  
-- Applying what I learn in class to real industry-style problems  
+- Building advanced **SQL and Python analytics projects** aligned with real business use cases  
+- Strengthening **model evaluation, threshold tuning, and decision impact analysis**  
+- Designing clearer **dashboards and executive-ready data stories**  
+- Applying classroom learning to **industry-style analytics and supply chain problems**  
 
 ## 🌐 Let’s Connect
 
 - LinkedIn: https://linkedin.com/in/sakshiagarwal19  
 - Email: agarwalsakshi849@gmail.com  
 
-Thanks for stopping by - feel free to explore the repositories or reach out.
+Thanks for visiting — feel free to explore the repositories or reach out!
