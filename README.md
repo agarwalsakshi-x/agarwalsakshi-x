@@ -32,6 +32,12 @@ Processed 100K+ supplier records, built operational KPIs using advanced SQL, and
 Designed a statewide drone delivery network for Massachusetts using **Center of Gravity optimization, coverage modeling, and Huff demand analysis**. Quantified service reach, estimated daily drone volumes, and recommended a **phased three-hub deployment strategy** to maximize statewide efficiency.  
 **Repo:** https://github.com/agarwalsakshi-x/Amazon-Prime-Air-Drone-Hub-Analysis
 
+### Plant Company Performance Dashboard (Power BI, DAX)
+
+Developed an interactive multi-page **Power BI executive dashboard** analyzing **Sales, Gross Profit, and Quantity performance** across countries, products, and time. Designed KPI cards for **YTD, PYTD, variance, and GP%**, built waterfall and trend visuals to highlight performance changes, and enabled stakeholder-driven exploration via filters and segmentation analysis to support **data-driven operational and profitability decisions**.  
+**Repo:** https://github.com/agarwalsakshi-x/Plant-Company-Performance-Dashboard
+
+
 
 ## 🛠 Skills & Technologies
 
