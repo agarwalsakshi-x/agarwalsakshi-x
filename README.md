@@ -1,8 +1,10 @@
-# Hi, I’m Sakshi 👋
+## Hi, I’m Sakshi 👋
 
-I’m a Business Analytics graduate student at UMass Amherst, passionate about data analytics, machine learning, and data-driven decision-making. I develop end-to-end analytical solutions that turn messy real-world data into actionable insights that improve business performance, reduce risk, and optimize operations.
+I’m a **Business Analytics graduate student at UMass Amherst** focused on turning raw data into clear, decision-ready insights using **SQL, Python, Power BI, and Tableau**.
 
-Before graduate school, I worked at **Accenture** in quality engineering for large-scale enterprise systems. That experience strengthened my attention to **data accuracy, edge cases, and process gaps**, and ultimately led me toward analytics and data science.
+My work centers on **business intelligence, KPI reporting, and operational analytics**, where I build dashboards, analyze trends, and translate complex data into actionable recommendations that improve performance, reduce risk, and support strategic decision-making.
+
+Before graduate school, I worked at **Accenture**, supporting enterprise systems and data quality initiatives, which strengthened my focus on accuracy, process improvement, and stakeholder communication.
 
 ## 🔍 What I Work On
 
