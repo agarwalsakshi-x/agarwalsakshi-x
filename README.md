@@ -1,10 +1,12 @@
-## Hi, I’m Sakshi 👋
+# Hi, I'm Sakshi 👋
 
-I’m a **Business Analytics graduate student at UMass Amherst** focused on turning raw data into clear, decision-ready insights using **SQL, Python, Power BI, and Tableau**.
+**MSBA @ UMass Amherst (GPA 3.9) · Ex-Accenture · Graduating May 2026**
 
-My work centers on **business intelligence, KPI reporting, and operational analytics**, where I build dashboards, analyze trends, and translate complex data into actionable recommendations that improve performance, reduce risk, and support strategic decision-making.
+Before grad school, I spent three years at **Accenture** working on enterprise data quality and compliance for life-science platforms — and that's where I learned that the hardest part of analytics isn't the model, it's asking the right question.
 
-Before graduate school, I worked at **Accenture**, supporting enterprise systems and data quality initiatives, which strengthened my focus on accuracy, process improvement, and stakeholder communication.
+I work across the full stack: SQL for operational analysis, Python for modeling, Power BI and Tableau for communicating results to people who don't live in spreadsheets. My projects span supply chain risk, credit risk, churn, and location optimization — but the through-line is always the same: find what the data is actually saying and make it useful to someone.
+
+Looking for **Data Analyst or Business Analyst** roles where technical depth and business judgment both matter.
 
 ## 🔍 What I Work On
 
