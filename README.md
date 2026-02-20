@@ -2,9 +2,9 @@
 
 **MSBA @ UMass Amherst (GPA 3.9) · Ex-Accenture · Graduating May 2026**
 
-Before grad school, I spent three years at **Accenture** working on enterprise data quality and compliance for life-science platforms — and that's where I learned that the hardest part of analytics isn't the model, it's asking the right question.
+Before grad school, I spent three years at **Accenture** working on enterprise data quality and compliance for life-science platforms, and that's where I learned that the hardest part of analytics isn't the model, it's asking the right question.
 
-I work across the full stack: SQL for operational analysis, Python for modeling, Power BI and Tableau for communicating results to people who don't live in spreadsheets. My projects span supply chain risk, credit risk, churn, and location optimization — but the through-line is always the same: find what the data is actually saying and make it useful to someone.
+I work across the full stack: SQL for operational analysis, Python for modeling, Power BI and Tableau for communicating results to people who don't live in spreadsheets. My projects span supply chain risk, credit risk, churn, and location optimization, but the through-line is always the same: find what the data is actually saying and make it useful to someone.
 
 Looking for **Data Analyst or Business Analyst** roles where technical depth and business judgment both matter.
 
