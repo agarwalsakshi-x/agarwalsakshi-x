@@ -81,6 +81,6 @@ Developed an interactive multi-page **Power BI executive dashboard** analyzing *
 ## 🌐 Let’s Connect
 
 - LinkedIn: https://linkedin.com/in/sakshiagarwal19  
-- Email: agarwalsakshi849@gmail.com  
+- Email: 8sakshi.agarwal@gmail.com  
 
 Thanks for visiting — feel free to explore the repositories or reach out!
