@@ -28,6 +28,10 @@ Built an end-to-end classification pipeline, optimized recall using decile-based
 Analyzed 7,000+ telecom customers, developed predictive churn models (**AUC ≈ 0.85**), and translated model insights into **targeted retention strategies linked to revenue impact**.  
 **Repo:** https://github.com/agarwalsakshi-x/IBM-Telco-Customer-Churn
 
+### U.S. State Relocation Decision Dashboard (Excel, Power Query, XLOOKUP)
+Integrated four independent datasets (cost of living, weather, violent crime, and housing) across all 50 U.S. states into a structured multi-sheet Excel workbook. Used XLOOKUP for cross-sheet data pulls, nested IF formulas for climate classification, and Power Query for data cleaning. Built an interactive Dashboard with pivot tables, slicers, and dynamic charts to rank and filter states by affordability, safety, and climate - enabling a clear, data-driven relocation recommendation.  
+**Repo:** [https://github.com/agarwalsakshi-x/us-state-relocation-dashboard](https://github.com/agarwalsakshi-x/US_Relocation_Excel_dashboard)
+
 ### Supply Chain Performance & Risk Analytics (SQL, Tableau)
 Processed 100K+ supplier records, built operational KPIs using advanced SQL, and designed dashboards to uncover **delivery delays, supplier risk, and performance bottlenecks**.  
 **Repo:** https://github.com/agarwalsakshi-x/supplychain-performance-sql
