@@ -1,6 +1,6 @@
 # Hi, I'm Sakshi 👋
 
-**MSBA @ UMass Amherst (GPA 3.9) · Ex-Accenture · Graduating May 2026**
+**MSBA @ UMass Amherst (GPA 3.9) · Ex-Accenture · Graduted May 2026**
 
 Before grad school, I spent three years at **Accenture** working on enterprise data quality and compliance for life-science platforms, and that's where I learned that the hardest part of analytics isn't the model, it's asking the right question.
 
