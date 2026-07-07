@@ -23,7 +23,7 @@ My projects focus on **end-to-end analytics workflows**, including:
 ### CMS Medicare Claims Analytics Dashboard (Python, Power BI)
 Before a single chart was built, data validation revealed that 64% of raw inpatient claims were duplicates — $6.1M in potentially double-counted Medicare payments that would have corrupted every downstream metric if left uncorrected. After cleaning 633K+ records across 3 CMS files, the analysis surfaced 3 high-impact findings: (1) a 104-day hospital stay miscoded as a routine DRG was reimbursed at only $28K — a significant revenue loss for the provider; (2) COPD with major complications (DRG 190) drives both the longest average stay (13.4 days) and the second-highest cost ($117K) — a clear target for utilization management intervention; (3) a single CKD Stage 4 patient generated 783 outpatient visits in 8 years, confirming that chronic disease concentration — not procedure volume — is the primary driver of Medicare outpatient spend. Built a 5-page Power BI dashboard translating these findings into actionable insights for payer-side analytics and care management teams.
 
-**Repo:** https://github.com/agarwalsakshi-x/CMS-Medicare-Analytics
+**Repo:** https://github.com/agarwalsakshi-x/CMS-Medicare-Analysis
 
 ### Loan Approval Prediction (Python, Machine Learning)
 Identified that optimizing for accuracy alone would miss 40% of high-risk applicants — shifted to recall-focused evaluation using decile analysis to surface the top risk drivers that lenders actually care about. The result: a model that supports smarter credit decisioning by flagging the applicants most likely to default, not just the ones easiest to classify.
